@@ -1,16 +1,16 @@
-# Git
+# Git & GitHub
 
-## 👨🏻‍💻 Commandes 
+## Commandes 
 
 ### Renommer localement branche Master en Main :
  
- `git branch -M master main`
+👨🏻‍💻 `git branch -M master main`
 
 ### Se connecter à un repository :
 
-`git remote add origin https://github.com/...`
+👨🏻‍💻 `git remote add origin https://github.com/...`
 
-## 👨🏻‍💻 Documentation
+## Documentation
 https://github.com
 
 
